@@ -1,0 +1,5 @@
+playwright
+
+## After install, users must run:
+
+playwright install
