@@ -32,9 +32,7 @@ pip install -r requirements.txt
 playwright install
 
 ## ▶️ Usage
-
 python epic_free_games.py
-
 
 - Script opens Epic Games Store
 - Login manually
@@ -42,11 +40,9 @@ python epic_free_games.py
 - Choose which games to claim (Confirm, then add to library.)
 
 ## ⚠️ Disclaimer
-
 This project is for educational purposes only.
 No credentials are collected or stored.
 Use responsibly and at your own risk.
 
 ## 📌 Author
-
 Built with ❤️ by Raj
